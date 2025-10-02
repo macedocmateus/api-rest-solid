@@ -39,12 +39,12 @@
                 "noUnusedFunctionParameters": "warn",
                 "noUnusedImports": "warn",
                 "noUnusedVariables": "warn",
-                "noUnusedPrivateClassMembers": "warn"
+                "noUnusedPrivateClassMembers": "warn",
+                "noInvalidUseBeforeDeclaration": "warn"
             },
             "style": {
                 "useConsistentObjectDefinitions": "warn",
-                "useObjectSpread": "warn",
-                "useSelfClosingElements": "warn"
+                "useObjectSpread": "warn"
             }
         }
     },
